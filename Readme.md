@@ -18,4 +18,4 @@ Project is created with:
 
 ## Setup
 
-No need to install anything, just chek it out at xxx .
+No need to install anything, just chek it out at (https://vigluk.github.io/simple-counter/) .
